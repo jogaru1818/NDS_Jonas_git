@@ -1,6 +1,6 @@
 My favorite desserts are
 
-1. pie
-2. ice cream
-3. cookies
-4. cake
+1. ice cream
+2. cookies
+3. cake
+4. pie
